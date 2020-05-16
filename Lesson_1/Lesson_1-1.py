@@ -1,0 +1,21 @@
+print("c = 54 + a")
+a = int(input("Введите число a - "))
+c = int(54 + a)
+print("c = " + str(c))
+
+print("n = 357 / k")
+k = int(input("Введите число k - "))
+n = float(357 / k)
+print("n = " + str(n))
+
+print("b = 6 * a")
+a = int(input("Введите число a - "))
+b = int(6 * a)
+print("b = " + str(b))
+
+print("y = (a + b) * 365")
+a = int(input("Введите число a - "))
+b = int(input("Введите число b - "))
+c = int(a + b)
+y = int(c * 365)
+print("y = " + str(y))
